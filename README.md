@@ -1,16 +1,62 @@
-## Hi there 👋
+👋 hi! i'm currently studying **computer science** at the **university of waterloo** in canada (second year). one thing about me: i build & ship products end-to-end across frontend, backend, and infrastructure
 
-<!--
-**alexissabourin/alexissabourin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]
+> i am actively on the lookout for a **summer 2026** (may - august) software engineering internship anywhere in canada or the united states. i'm open for relocation and remote roles. i'll be happy to chat with you if you have an opportunity at the moment!
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    alt="TypeScript"
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"
+  />
+  <img
+    alt="Python"
+    src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"
+  />
+  <img
+    alt="Go"
+    src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"
+  />
+  <img
+    alt="Java"
+    src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"
+  />
+  <img
+    alt="PostgreSQL"
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
+  />
+  <img
+    alt="Docker"
+    src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"
+  />
+  <img
+    alt="Bash"
+    src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"
+  />
+  <img
+    alt="Claude Code"
+    src="https://img.shields.io/badge/Claude%20Code-111111?style=flat&logo=anthropic&logoColor=white"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**previously:** shipped a production security-incident dashboard used daily by 10+ cybersecurity analysts; launched a mobile companion app for critical incident notifications; migrated core backend routes to modern cloud infrastructure at a major bank
+
+### 🌿 welcome to my garden
+
+> "water daily, ship weekly"
+
+**legend** 
+- 🌱 pre‑mvp
+- 🪴 mvp
+- 🌳 scale
+- 🌾 retired (open-sourced)
+
+<table>
+  <tr>
+    <td>
+      <b>🌱 <a href="https://sewnelle.ai">sewnelle.ai</a></b><br/>
+      "tailored job applications, without the busywork"<br/>
+      tailors application packages to specific job postings using AI and common sense<br/>
+      <sub>next: landing page + waitlist</sub>
+    </td>
+  </tr>
+</table>
