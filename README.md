@@ -1,4 +1,4 @@
-👋 hi! i'm currently studying **computer science** at the **university of waterloo** in canada (second year). one thing about me: i build & ship products end-to-end across frontend, backend, and infrastructure
+👋 hi! i'm currently studying **computer science** at the **university of waterloo** in canada (second year). one thing about me: i build & ship products end-to-end across front end, back end, and infrastructure
 
 > [!IMPORTANT]
 > i am actively on the lookout for a **summer 2026** (may - august) software engineering internship anywhere in canada or the united states. i'm open for relocation and remote roles. i'll be happy to chat with you if you have an opportunity at the moment!
