@@ -38,7 +38,7 @@
   />
 </p>
 
-**previously:** shipped a production security-incident dashboard used daily by 10+ cybersecurity analysts; launched a mobile companion app for critical incident notifications; migrated core backend routes to modern cloud infrastructure at a major bank
+⏮️ **previously:** shipped and scaled full-stack systems across fintech and security, modernized UIs for 500+ internal users, migrated Spring Boot APIs and legacy data into MySQL with 85% test coverage, and owned end-to-end incident-platform engineering (APIs, database design, RBAC, audit logging, CI quality gates, and E2E testing). I like owning systems end-to-end, optimizing for reliability and performance, and building products that ship fast
 
 ### 🌿 welcome to my garden
 
