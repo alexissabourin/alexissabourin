@@ -54,9 +54,7 @@
   <tr>
     <td>
       <b>🌱 <a href="https://sewnelle.ai">sewnelle.ai</a></b><br/>
-      "tailored technical job applications, without the busywork"<br/>
-      tailors application packages to specific job postings using AI and common sense<br/>
-      <sub>next: landing page + waitlist</sub>
+      pivoting
     </td>
   </tr>
 </table>
