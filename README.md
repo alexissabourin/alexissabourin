@@ -1,4 +1,4 @@
-👋 hi! i'm currently studying **computer science** at the **university of waterloo** in canada (second year). one thing about me: i build & ship products end-to-end across front end, back end, and infrastructure
+👋 hi! i'm currently studying **computer science** at the **university of waterloo** in canada (second year). one thing about me: i build & ship production-ready products end-to-end across ui/ux, backend, infrastructure and ai integrations
 
 <p align="center">
   <img
