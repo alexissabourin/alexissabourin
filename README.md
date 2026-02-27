@@ -35,7 +35,7 @@
   />
 </p>
 
-⏮️ **previously:** shipped and scaled full-stack systems across fintech and security, modernized uis for 500+ internal users, migrated Spring Boot apis and legacy data into mysql with 85% test coverage, and owned end-to-end incident-platform engineering (apis, database design, rbac, audit logging, ci quality gates, and e2e testing). i like owning systems end-to-end, optimizing for reliability and performance, and building products that ship fast
+⏮️ **previously:** shipped and scaled full stack systems across fintech and security, modernized uis for 500+ internal users, migrated spring boot apis and legacy data into mysql with 85% test coverage, and owned end-to-end incident-platform engineering (apis, database design, rbac, audit logging, ci quality gates, and e2e testing). i like owning systems end-to-end, optimizing for reliability and performance, and building products that ship fast
 
 ### 🌿 welcome to my garden
 
