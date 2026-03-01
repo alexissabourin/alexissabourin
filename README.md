@@ -1,4 +1,4 @@
-👋 hi! i'm currently studying **computer science** at the **university of waterloo** in canada (second year). one thing about me: i quickly build & ship production-ready saas across all relevant domains
+👋 hi! i'm currently studying `computer science` at the `university of waterloo` in canada (second year). one thing about me: i quickly build & ship production-ready saas across all relevant domains
 
 <p align="center">
   <img
