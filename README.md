@@ -39,22 +39,16 @@
 
 1⃣️ hackathon wins
 
-### 🌿 welcome to my garden
+### 🌿 garden
 
 > "water daily, ship weekly"
 
-**legend** 
-- 🌱 pre‑mvp
-- 🪴 mvp
-- 🌳 scale
-- 🌾 open-sourced
-- 🪦 retired
+*the silence echoes throughout...* 🌀
+*come back soon, adventurer*
 
-<table>
-  <tr>
-    <td>
-      <b>🌱 <a href="https://sewnelle.ai">sewnelle.ai</a></b><br/>
-      pivoting
-    </td>
-  </tr>
-</table>
+### 🪦 graveyard
+
+> "where the dead lay"
+
+*the silence echoes throughout...* 🌀
+*come back soon, adventurer*
