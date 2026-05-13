@@ -23,4 +23,5 @@
 
 > unavoidable sleep deprivation
 
+**selected highlights**
 - 🏅 hack canada 2026 — realtime ai emergency severity assessment and nearby first-aider dispatch
