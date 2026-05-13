@@ -19,8 +19,6 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
 </p>
 
----
-
 ## 🏆 hackathons
 
 > unavoidable sleep deprivation
