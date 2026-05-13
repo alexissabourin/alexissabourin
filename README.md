@@ -19,10 +19,8 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
 </p>
 
-## 🏆 hackathons
+## 🏆 hackathons [↗](./HACKATHONS.md)
 
 > unavoidable sleep deprivation
-
-→ [view archive](./HACKATHONS.md)
 
 - 🏅 hack canada 2026 — ai emergency handoff in seconds point your phone at an emergency scene and get instant severity assessment, step-by-step first aid guidance, and automated alerts to nearby first aiders
