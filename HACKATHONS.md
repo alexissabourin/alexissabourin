@@ -1,8 +1,8 @@
-## 2026
+## 2️⃣0️⃣2️⃣6️⃣
 
 ### 🏅 hack canada 2026 — bystander
 
-realtime ai emergency severity assessment and nearby first-aider dispatch
+> realtime ai emergency severity assessment and nearby first-aider dispatch
 
 **prize**  
 best use of presage
