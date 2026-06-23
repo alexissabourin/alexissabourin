@@ -24,6 +24,6 @@ best use of fetch ai business
 **stack**  
 `python` `fetch ai` `stripe` `multi-agent` `agentic payments`
 
-**links**
+**links**  
 📦 [repo](https://github.com/Ai-Hackathon-2026-Berk/AgriBroker)
 📄 [devpost](https://devpost.com/software/agribroker)
