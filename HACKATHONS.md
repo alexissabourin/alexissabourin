@@ -1,6 +1,6 @@
 ## 2️⃣0️⃣2️⃣6️⃣
 
-### Ⅰ — bystander (hack canada 2026)**
+### Ⅰ — bystander (hack canada 2026)
 
 > realtime ai emergency severity assessment and nearby first-aider dispatch
 
