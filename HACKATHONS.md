@@ -14,6 +14,8 @@ best use of presage
 📦 [repo](https://github.com/hackcanada2026-aaaa/bystander)
 📄 [devpost](https://devpost.com/software/bystander)
 
+---
+
 ### Ⅱ — agribroker (uc berkeley ai hackathon)
 
 > autonomous marketplace between small farmers and bulk buyers
