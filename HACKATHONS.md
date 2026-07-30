@@ -1,6 +1,6 @@
 ## 2️⃣0️⃣2️⃣6️⃣
 
-### Ⅰ — bystander (hack canada 2026)
+### bystander (hack canada 2026)
 
 > realtime ai emergency severity assessment and nearby first-aider dispatch
 
@@ -16,7 +16,7 @@ best use of presage
 
 ---
 
-### Ⅱ — agribroker (uc berkeley ai hackathon)
+### agribroker (uc berkeley ai hackathon)
 
 > autonomous marketplace between small farmers and bulk buyers
 
